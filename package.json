@@ -43,7 +43,7 @@
     "uglify-js": "^2.7.5",
     "webpack": "^2.2.1"
   },
-  "dependencies": {
+  "peerDependencies": {
     "zeroclipboard": "^2.3.0",
     "moment": "^2.17.1",
     "numbro": "^1.9.3",
